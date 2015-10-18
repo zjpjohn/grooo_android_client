@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@id/materialviewpager_imageHeader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop" />
+    <View
+        android:id="@id/materialviewpager_headerImageDarkLayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout><!-- From: file:/Users/florentchampigny/Documents/MaterialViewPager/materialviewpager/src/main/res/layout/material_view_pager_imageview_header.xml --><!-- From: file:/home/runzii/文档/code/Studio/Grooo/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_imageview_header.xml -->
