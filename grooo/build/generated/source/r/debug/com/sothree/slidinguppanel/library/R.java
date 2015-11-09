@@ -8,38 +8,54 @@ package com.sothree.slidinguppanel.library;
 
 public final class R {
 	public static final class attr {
-		public static final int umanoAnchorPoint = 0x7f0101c1;
-		public static final int umanoClipPanel = 0x7f0101c0;
-		public static final int umanoDragView = 0x7f0101be;
-		public static final int umanoFadeColor = 0x7f0101bc;
-		public static final int umanoFlingVelocity = 0x7f0101bd;
-		public static final int umanoInitialState = 0x7f0101c2;
-		public static final int umanoOverlay = 0x7f0101bf;
-		public static final int umanoPanelHeight = 0x7f0101b9;
-		public static final int umanoParalaxOffset = 0x7f0101bb;
-		public static final int umanoShadowHeight = 0x7f0101ba;
+		public static final int layoutManager = 0x7f0100f1;
+		public static final int reverseLayout = 0x7f0100f3;
+		public static final int spanCount = 0x7f0100f2;
+		public static final int stackFromEnd = 0x7f0100f4;
+		public static final int umanoAnchorPoint = 0x7f01010f;
+		public static final int umanoClipPanel = 0x7f01010e;
+		public static final int umanoDragView = 0x7f01010b;
+		public static final int umanoFadeColor = 0x7f010109;
+		public static final int umanoFlingVelocity = 0x7f01010a;
+		public static final int umanoInitialState = 0x7f010110;
+		public static final int umanoOverlay = 0x7f01010d;
+		public static final int umanoPanelHeight = 0x7f010106;
+		public static final int umanoParallaxOffset = 0x7f010108;
+		public static final int umanoScrollableView = 0x7f01010c;
+		public static final int umanoShadowHeight = 0x7f010107;
+	}
+	public static final class dimen {
+		public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0900a3;
 	}
 	public static final class drawable {
-		public static final int above_shadow = 0x7f02003c;
-		public static final int below_shadow = 0x7f020040;
+		public static final int above_shadow = 0x7f020046;
+		public static final int below_shadow = 0x7f020049;
 	}
 	public static final class id {
-		public static final int anchored = 0x7f0f0054;
-		public static final int collapsed = 0x7f0f0055;
-		public static final int expanded = 0x7f0f0056;
-		public static final int hidden = 0x7f0f0057;
+		public static final int anchored = 0x7f0e0047;
+		public static final int collapsed = 0x7f0e0048;
+		public static final int expanded = 0x7f0e0049;
+		public static final int hidden = 0x7f0e004a;
+		public static final int item_touch_helper_previous_elevation = 0x7f0e0005;
 	}
 	public static final class styleable {
-		public static final int[] SlidingUpPanelLayout = { 0x7f0101b9, 0x7f0101ba, 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1, 0x7f0101c2 };
-		public static final int SlidingUpPanelLayout_umanoAnchorPoint = 8;
-		public static final int SlidingUpPanelLayout_umanoClipPanel = 7;
+		public static final int[] RecyclerView = { 0x010100c4, 0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4 };
+		public static final int RecyclerView_android_orientation = 0;
+		public static final int RecyclerView_layoutManager = 1;
+		public static final int RecyclerView_reverseLayout = 3;
+		public static final int RecyclerView_spanCount = 2;
+		public static final int RecyclerView_stackFromEnd = 4;
+		public static final int[] SlidingUpPanelLayout = { 0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109, 0x7f01010a, 0x7f01010b, 0x7f01010c, 0x7f01010d, 0x7f01010e, 0x7f01010f, 0x7f010110 };
+		public static final int SlidingUpPanelLayout_umanoAnchorPoint = 9;
+		public static final int SlidingUpPanelLayout_umanoClipPanel = 8;
 		public static final int SlidingUpPanelLayout_umanoDragView = 5;
 		public static final int SlidingUpPanelLayout_umanoFadeColor = 3;
 		public static final int SlidingUpPanelLayout_umanoFlingVelocity = 4;
-		public static final int SlidingUpPanelLayout_umanoInitialState = 9;
-		public static final int SlidingUpPanelLayout_umanoOverlay = 6;
+		public static final int SlidingUpPanelLayout_umanoInitialState = 10;
+		public static final int SlidingUpPanelLayout_umanoOverlay = 7;
 		public static final int SlidingUpPanelLayout_umanoPanelHeight = 0;
-		public static final int SlidingUpPanelLayout_umanoParalaxOffset = 2;
+		public static final int SlidingUpPanelLayout_umanoParallaxOffset = 2;
+		public static final int SlidingUpPanelLayout_umanoScrollableView = 6;
 		public static final int SlidingUpPanelLayout_umanoShadowHeight = 1;
 	}
 }

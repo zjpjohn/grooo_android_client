@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.jpardogo.listbuddies/library/1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.jpardogo.listbuddies/library/1.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jpardogo.listbuddies/library/1.1.1/86fbe9fd224451a3cb5df2ef6a0ff7d7c3bb17bf/library-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
