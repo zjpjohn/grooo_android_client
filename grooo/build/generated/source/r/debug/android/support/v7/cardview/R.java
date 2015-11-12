@@ -32,9 +32,9 @@ public final class R {
 		public static final int cardview_default_radius = 0x7f09007f;
 	}
 	public static final class style {
-		public static final int CardView = 0x7f0a00cc;
-		public static final int CardView_Dark = 0x7f0a00cd;
-		public static final int CardView_Light = 0x7f0a00ce;
+		public static final int CardView = 0x7f0a00cd;
+		public static final int CardView_Dark = 0x7f0a00ce;
+		public static final int CardView_Light = 0x7f0a00cf;
 	}
 	public static final class styleable {
 		public static final int[] CardView = { 0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c, 0x7f01004d, 0x7f01004e, 0x7f01004f, 0x7f010050, 0x7f010051, 0x7f010052 };
