@@ -5,7 +5,7 @@
     android:versionName="2.0.4" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="17"
         android:targetSdkVersion="23" />
 
     <!-- Push service 运行需要的权限 -->

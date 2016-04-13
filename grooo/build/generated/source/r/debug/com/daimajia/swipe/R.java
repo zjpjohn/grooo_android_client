@@ -8,24 +8,24 @@ package com.daimajia.swipe;
 
 public final class R {
 	public static final class attr {
-		public static final int bottomEdgeSwipeOffset = 0x7f010126;
-		public static final int clickToClose = 0x7f010128;
-		public static final int drag_edge = 0x7f010122;
-		public static final int leftEdgeSwipeOffset = 0x7f010123;
-		public static final int rightEdgeSwipeOffset = 0x7f010124;
-		public static final int show_mode = 0x7f010127;
-		public static final int topEdgeSwipeOffset = 0x7f010125;
+		public static final int bottomEdgeSwipeOffset = 0x7f010197;
+		public static final int clickToClose = 0x7f010199;
+		public static final int drag_edge = 0x7f010193;
+		public static final int leftEdgeSwipeOffset = 0x7f010194;
+		public static final int rightEdgeSwipeOffset = 0x7f010195;
+		public static final int show_mode = 0x7f010198;
+		public static final int topEdgeSwipeOffset = 0x7f010196;
 	}
 	public static final class id {
-		public static final int bottom = 0x7f0e0029;
-		public static final int lay_down = 0x7f0e004c;
-		public static final int left = 0x7f0e002d;
-		public static final int pull_out = 0x7f0e004d;
-		public static final int right = 0x7f0e002e;
-		public static final int top = 0x7f0e002f;
+		public static final int bottom = 0x7f0e002a;
+		public static final int lay_down = 0x7f0e004d;
+		public static final int left = 0x7f0e002e;
+		public static final int pull_out = 0x7f0e004e;
+		public static final int right = 0x7f0e002f;
+		public static final int top = 0x7f0e0030;
 	}
 	public static final class styleable {
-		public static final int[] SwipeLayout = { 0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125, 0x7f010126, 0x7f010127, 0x7f010128 };
+		public static final int[] SwipeLayout = { 0x7f010193, 0x7f010194, 0x7f010195, 0x7f010196, 0x7f010197, 0x7f010198, 0x7f010199 };
 		public static final int SwipeLayout_bottomEdgeSwipeOffset = 4;
 		public static final int SwipeLayout_clickToClose = 6;
 		public static final int SwipeLayout_drag_edge = 0;
