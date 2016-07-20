@@ -34,686 +34,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694a6ee2-441c-429d-a06b-1a84b9ee17bd" name="Default" comment="``">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/runzii.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ST4_4_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/adapter_rxjava_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/adapters_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr4_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr4_annotations_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr4_runtime_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_runtime_3_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/baseLibrary_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compilerCommon_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compiler_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fir_sdk_1_3_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/glide_3_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/guava_17_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jpush_android_2_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/juniversalchardet_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kenburnsview_1_0_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_runtime_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/materialviewpager_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_3_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okio_1_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_abego_treelayout_core_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/palette_v7_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/renderscript_v8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/retrofit_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_0_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_appcompat_v7_0_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_design_0_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_recyclerview_v7_0_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_support_v4_0_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxjava_1_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_components_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/School.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Shop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/AuthToken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/AuthUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/ChangePwdForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/CommentForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/HttpResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/OrderForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/UpdateInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/OrderDetailAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopViewPagerAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopViewPagerAdapter1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ProfileFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/BindingNs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/GroooAppManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/FoodEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/ImageEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxJava/RxBus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxJava/RxNetWorking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/SmallTools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/Toasts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/anim/fade_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shopdetail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shoplist1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shoplist_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_shoplist.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/BottomNavViewPager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/EmptySupportRecyclerView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/utils/ActivityUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/ObservableString.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_async_http_1_4_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/butterknife_6_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_22_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/httpclient_4_3_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/iconics_core_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jpush_android_2_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/kenburnsview_1_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/materialdrawer_4_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/materialviewpager_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/palette_v7_23_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/picasso_2_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/testinagent.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/universal_image_loader_1_9_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/daimajia/swipe/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/mikepenz/materialdrawer/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/androidTest/debug/com/wenym/grooo/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/daimajia/swipe/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/daimajia/swipe/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/daimajia/swipe/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/daimajia/swipe/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/materialdrawer/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/NewsPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/PayListAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/PayListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/RestaurantListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/RestaurantListAdapter$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/RestaurantListAdapter$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/RestaurantListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/adapters/RestaurantViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/CancelOrderData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/CancelOrderSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/CheckUpdateData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/CheckUpdateSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/FetchKuaidiData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/FetchKuaidiSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetBaiduPictureData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetBaiduPictureSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetMenuData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetMenuSuccessData$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetMenuSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetNewsData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetNewsSuccessData$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetNewsSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetOrderData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetOrderSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetRestaurantData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetRestaurantSuccessData$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/GetRestaurantSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/InitBuildingData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/InitBuildingsSuccessData$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/InitBuildingsSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/InitRestaurantData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/InitRestaurantSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/LoginData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/LoginSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/OrderFoodData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/OrderFoodSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/PushInfoData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/PushInfoSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/RegistData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/RegistSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/SuggestData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/model/SuggestSuccessData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpCallBack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/http/util/HttpUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/ImageProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/SmallTools.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/Tools.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/UpdateAppManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/UpdateAppManager$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/UpdateAppManager$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/UpdateAppManager$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/UpdateAppManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/utils/ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/Toasts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/dex/debug/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/drawable/logo_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_imageview_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_moving_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_pagertitlestrip_newstand.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_pagertitlestrip_standard.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_placeholder.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/material_view_pager_viewpager.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/tools_list_item_card_big.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/tools_list_item_card_small.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/tools_list_items.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/layout/tools_material_view_pager_pagertitlestrip.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.2/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/incremental/aidl/androidTest/debug/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/incremental/aidl/debug/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/AndroidViewAnimations-1.1.2-1d0a9ba185b8016b5754810123939bdf385e2232.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/annotations-12.0-4a6e9471b70ee52da8c00a73db7e7cb9afd0227c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-144bc7b16137773e38d4ad8ca3d4bfdc9091d1ad.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-1882032fe78b7617a88e68b8f500a1bf3a1c06e5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-2cd458aa2335de3d3f17e74f654a73b6fc3d5c6c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-5284d2a775560e0a61780a0bf51e5df37fbc56fa.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-591e04d000bc9ffe479a50bd4edd307972f79f53.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-98322205329117635735d02eef876558c25f5028.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/classes-a333517077754773d7815ec127bfdea186ae6ed4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/gson-2.2.4-87c6b07d3d65a999b52fa9265f49d9d7952a749e.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-49696079003a2765fa8fe4cc71bb1aa9b3a88a25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/library-2.4.0-53d5e48d98ad3a1ee068d76d40019c224703b13d.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/picasso-2.5.2-2405b4f31a04b834138fbb0a94f8a6b44dd91730.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/recyclerview-animators-1.1.2-5b34f48d0783ac879f66b80470e02e8ab5cd0030.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-5bd6f838136abb2e1c53206dd30b55356f38a3ef.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/arm64-v8a/libjpush205.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/armeabi-v7a/libjpush205.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/armeabi/libjpush205.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/gson-2.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/jpush-android-2.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/testinagent.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/libs/universal-image-loader-1.9.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/CircularAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/DeliveryOrderAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/NewsPagerAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/RestaurantListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/RestaurantViewHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/CancelOrderData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/CancelOrderSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/CheckUpdateData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/CheckUpdateSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/FetchKuaidiData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/FetchKuaidiSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetBaiduPictureData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetBaiduPictureSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetMenuData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetMenuSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetNewsData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetNewsSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetOrderData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetOrderSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetRestaurantData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/GetRestaurantSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/InitBuildingData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/InitBuildingsSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/InitRestaurantData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/InitRestaurantSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/LoginData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/LoginSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/OrderFoodData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/OrderFoodSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/PushInfoData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/PushInfoSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/RegistData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/RegistSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/SuggestData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/model/SuggestSuccessData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/util/HttpCallBack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Building.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/CategoryEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/DeliveryOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/FoodOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/LingshiClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/OrderItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Restaurant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/provider/FragmentTags.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/LookOrderActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantListActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/UserInfoActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/FetchKuaidiFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/HomeFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ListBuddiesFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/NewsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/GroooAppManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/ImageProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/SmallTools.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/UpdateAppManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/CircleTransformation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/ScaleToFitWidhtHeigthTransform.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/Toasts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/anim/abc_slide_in_right.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/anim/anim_grow_fade_in_from_bottom_fast.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/anim/indicator_animator_reverse.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/anim/indicator_no_animator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/food_list_favor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/foodlist_bg_foodnum.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_chevron_left_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_chevron_right_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_chevron_right_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_email_white_36dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_face_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_favorite_border_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_favorite_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_home_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_local_dining_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_receipt_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_settings_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/icon_calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/icon_home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/icon_profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/icon_rest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/icon_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/m_index_icon_cart_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/m_index_icon_cart_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/restaurant_list_item_rate_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/restaurant_list_item_rate_un_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-ldpi/doge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-ldpi/vivian20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/bg_bt_raise_color.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/food9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_chevron_left_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_chevron_right_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_chevron_right_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_email_white_36dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_face_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_favorite_border_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_favorite_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_home_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_local_dining_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_receipt_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_settings_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_arrow_back_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_category_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_chevron_left_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_chevron_right_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_chevron_right_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_email_white_36dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_face_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_favorite_border_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_favorite_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_home_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_local_dining_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_receipt_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_settings_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/selector_alpha_button_orange.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/selector_entersplash.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/tabs_pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_chevron_left_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_chevron_right_black_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_chevron_right_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_email_white_36dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_face_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_favorite_border_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_favorite_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_home_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_local_dining_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_receipt_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxxhdpi/ic_call_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxxhdpi/ic_favorite_border_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxxhdpi/ic_favorite_white_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxxhdpi/ic_local_dining_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/ab_background_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/bamboo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/bg_bt_raise.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/black_radius_square.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/color_accent_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/homeitem_delivery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/homeitem_delivery_f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/homeitem_market.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/homeitem_market_f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/list_divider.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/mat2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/mat3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/ny_light.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/rating_bar_grey_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/restaurant_header_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/selector_grey_dark_corners_button.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/shape_blue_light_corners_button.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/shape_grey_dark_corners_button.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable/shape_grey_dark_corners_button_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_lookorder.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_restaurantdetail.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_userinfo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_fetchkuaidi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_home.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_listbuddy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/home_fragment_menu1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/home_fragment_menu_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_delivery_order.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_order.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_home.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/newstoday_fragment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/restaurant_food_list_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/restaurant_list_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/menu/none.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/raw/beep.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/libraries/appcompat_v7_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/libraries/support_annotations_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/libraries/support_v4_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/SwipeBackLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/ViewDragHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/app/SwipeBackActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/app/SwipeBackActivityBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/app/SwipeBackActivityHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/java/me/imid/swipebacklayout/lib/app/SwipeBackPreferenceActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/shadow_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/shadow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/shadow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/layout/swipeback_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/values/attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/src/main/res/values/styles.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/android_observablescrollview_1_5_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_observablescrollview_1_6_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/materialize_0_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/bottom_bar_1_4_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/FoodOrderAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/adapters/PayListAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/PayListAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/util/HttpConstants.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/util/HttpUtils.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/AppUser.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Profile.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/provider/ShoppingBasket.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Basket.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseActivity.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/BaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RestaurantListFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/Blur.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/Blur.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/OrderStatus.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/OrderStatus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/PreferencesUtil.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/AppPreferences.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/Tools.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/Tools.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/ViewHolder.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/ViewHolder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/stackblur/BlurProcess.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/stackblur/BlurProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/stackblur/JavaBlurProcess.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/stackblur/JavaBlurProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/stackblur/NativeBlurProcess.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/stackblur/NativeBlurProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/stackblur/RSBlurProcess.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/stackblur/RSBlurProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/utils/stackblur/StackBlurManager.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/stackblur/StackBlurManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/res/anim/indicator_animator.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/anim/fade_in.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_base.xml" afterPath="$PROJECT_DIR$/library/src/main/res/layout/activity_base.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shoplist.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shoplist.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shoplist_header_logo.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/shoplist_header_logo.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/res/menu/menu_restaurant_detail.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/menu/menu_bottom_navigation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/design/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/cardview/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/afollestad/materialdialogs/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/astuetz/pagerslidingtabstrip/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/etsy/android/grid/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/github/florent37/materialviewpager/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/octicons_typeface_library/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/octicons_typeface_library/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/octicons_typeface_library/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/mikepenz/octicons_typeface_library/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/rengwuxian/materialedittext/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/BuildConfig.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/GroooApplication.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/GroooApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$anim.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$attr.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$bool.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$color.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$dimen.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$drawable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$id.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$integer.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$layout.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$menu.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$string.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$style.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$styleable.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/BadgeView.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/BadgeView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleImageView.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator$1.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator$ReverseInterpolator.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator$ReverseInterpolator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/CircleIndicator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/DashedLineView.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/DashedLineView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/NoScrollGridView.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/NoScrollGridView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/NoScrollViewPager.class" afterPath="$PROJECT_DIR$/grooo/build/intermediates/classes/debug/com/wenym/grooo/widgets/NoScrollViewPager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/outputs/apk/grooo-debug-unaligned.apk" afterPath="$PROJECT_DIR$/grooo/build/outputs/apk/grooo-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/outputs/apk/grooo-debug.apk" afterPath="$PROJECT_DIR$/grooo/build/outputs/apk/grooo-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/input_bg.9.png" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/input_bg.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="694a6ee2-441c-429d-a06b-1a84b9ee17bd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.navigation/grooo/raw/main.nvg.xml" afterPath="$PROJECT_DIR$/.navigation/grooo/raw/main.nvg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build.gradle" afterPath="$PROJECT_DIR$/grooo/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/cardview/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/cardview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/afollestad/materialdialogs/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/afollestad/materialdialogs/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/astuetz/pagerslidingtabstrip/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/astuetz/pagerslidingtabstrip/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/etsy/android/grid/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/etsy/android/grid/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/github/florent37/materialviewpager/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/github/florent37/materialviewpager/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/mikepenz/octicons_typeface_library/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/mikepenz/octicons_typeface_library/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/rengwuxian/materialedittext/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/rengwuxian/materialedittext/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/sothree/slidinguppanel/library/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/sothree/slidinguppanel/library/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/wenym/grooo/R.java" afterPath="$PROJECT_DIR$/grooo/build/generated/source/r/debug/com/wenym/grooo/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/grooo/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/grooo/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/grooo/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/grooo.iml" afterPath="$PROJECT_DIR$/grooo/grooo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/GroooApplication.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/GroooApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/HomeItemEntity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/HomeItemEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Food.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Food.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/provider/ExtraActivityKeys.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/provider/ExtraActivityKeys.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/AboutActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/AboutActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ConfirmOrderActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ConfirmOrderActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/GroooLoginActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/GroooLoginActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantDetailActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SplashActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SplashActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SuggestActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SuggestActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/WebViewActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/WebViewActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopMenuFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopMenuFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/SuggestFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/SuggestFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AutoBlurFrameLayout.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AutoBlurFrameLayout.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_confirm_order.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_confirm_order.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_splash.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_splash.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_card.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_card.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_recyclerview.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_recyclerview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_register.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_register.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shop_menu.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shop_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_suggest.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_suggest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/restaurant_list_item_dev.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/restaurant_list_item_dev.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values-v14/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values-v14/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/arrays.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/arrays.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/styles.xml" />
     </list>
     <ignored path="Grooo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -775,8 +98,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6837607">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.64102566">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -3816,7 +3139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/UserProfielActivity.java" />
         <option value="$PROJECT_DIR$/.navigation/grooo/raw/main.nvg.xml" />
         <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ProfileFragment.java" />
@@ -3867,6 +3189,7 @@
         <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopListAdapter.java" />
         <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopListFragment.java" />
         <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shoplist.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -3962,6 +3285,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".navigation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -4342,7 +3687,13 @@
       <option name="number" value="Default" />
       <updated>1460532891957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="大幅改动了UI，采用了最新的BottomNavgation设计，还没完成">
+      <created>1469001485719</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1469001485719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -4397,7 +3748,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="想了想，开源了，希望别被攻击" />
     <MESSAGE value="大幅改进了UI，采用了最新的BottomNavgation设计，还没完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="大幅改进了UI，采用了最新的BottomNavgation设计，还没完成" />
+    <MESSAGE value="大幅改动了UI，采用了最新的BottomNavgation设计，还没完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="大幅改动了UI，采用了最新的BottomNavgation设计，还没完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -4406,13 +3758,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/24.0.0/62f5a92844ab233aca69beadc350d772b8b44b85/appcompat-v7-24.0.0-sources.jar!/android/support/v7/widget/Toolbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66560507">
-          <caret line="958" column="32" selection-start-line="958" selection-start-column="32" selection-end-line="958" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Android/sdk/sources/android-23/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3312102">
@@ -4807,6 +4152,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33245382">
           <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4822,8 +4168,8 @@
         <state vertical-scroll-proportion="1.1635884">
           <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
           <folding>
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4843,6 +4189,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.176781">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -4857,6 +4213,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6833773">
           <caret line="77" column="47" selection-start-line="77" selection-start-column="47" selection-end-line="77" selection-end-column="47" />
+          <folding>
+            <element signature="e#2662#2663#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.navigation/grooo/raw/main.nvg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4870,8 +4238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6837607">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.64102566">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
