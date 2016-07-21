@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Grooo.iml" filepath="$PROJECT_DIR$/Grooo.iml" />
       <module fileurl="file://$PROJECT_DIR$/grooo/grooo.iml" filepath="$PROJECT_DIR$/grooo/grooo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grooo_android_client.iml" filepath="$PROJECT_DIR$/grooo_android_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
