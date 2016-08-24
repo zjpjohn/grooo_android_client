@@ -23,6 +23,11 @@
           <theme>@style/AppTheme</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_school.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_splash.xml">
         <config>
           <theme>@style/LoginTheme</theme>
@@ -48,6 +53,21 @@
           <theme>@android:style/Theme.Material.Light</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_confirm_edit.xml">
+        <config>
+          <theme>@android:style/Theme.Material.Light</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile.xml">
+        <config>
+          <theme>@android:style/Theme.Material.Light</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile_edit.xml">
+        <config>
+          <theme>@android:style/Theme.Material.Light</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_send_msg.xml">
         <config>
           <theme>@android:style/Theme.Material.Light</theme>
@@ -56,19 +76,68 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" line="157" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694a6ee2-441c-429d-a06b-1a84b9ee17bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/BaseViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ProfileViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_edit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_school.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_school.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/menu/menu_confirm_edit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile_edit.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/SuggestFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_suggest.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Basket.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Basket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Food.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Food.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Order.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Order.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SuggestActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/EditActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ProfileFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/ProfileFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/build.gradle" afterPath="$PROJECT_DIR$/grooo/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/grooo.iml" afterPath="$PROJECT_DIR$/grooo/grooo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Shop.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Shop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/CommentForm.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/CommentForm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/OrderForm.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/OrderForm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_comment.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_comment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ConfirmOrderActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ConfirmOrderActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantDetailActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/OrderDetailAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/OrderDetailAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/PayListAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/PayListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopMenuFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopMenuFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/GroooAppManager.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/GroooAppManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/FoodEvent.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/FoodEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_order_detail.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_order_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shopdetail.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shopdetail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
     </list>
     <ignored path="Grooo.iws" />
@@ -238,64 +307,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommentActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java">
+      <file leaf-file-name="EditActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/EditActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1696#1729#0" expanded="true" />
-              </folding>
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_comment.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_comment.xml">
+      <file leaf-file-name="activity_edit.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_edit.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18367347">
-              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.42687747">
+              <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.8727274">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroooService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AvatarImageBehavior.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="76" column="57" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#2269#2270#0" expanded="false" />
-                <element signature="e#2301#2302#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -305,9 +335,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile_vertical" />
-        <option value="Class" />
         <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
@@ -903,11 +933,6 @@
                 <option name="description" value="Prepare com.github.afollestad.material-dialogs:core:0.8.5.7" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComGithubAfollestadMaterialDialogsCore0857Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.jorgecastilloprz:fabprogresscircle:1.01" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGithubJorgecastilloprzFabprogresscircle101Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.jakewharton.rxbinding:rxbinding:0.4.0" />
@@ -1759,11 +1784,6 @@
                 <option name="description" value="Prepare com.github.afollestad.material-dialogs:core:0.8.5.7" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/grooo" />
                 <option name="name" value="prepareComGithubAfollestadMaterialDialogsCore0857Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.jorgecastilloprz:fabprogresscircle:1.01" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/grooo" />
-                <option name="name" value="prepareComGithubJorgecastilloprzFabprogresscircle101Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.jakewharton.rxbinding:rxbinding:0.4.0" />
@@ -2781,7 +2801,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5881336413859" />
+        <entry key="$PROJECT_DIR$" value="5883144654542" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2971,7 +2991,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/se.emilsjolander/stickylistheaders/2.7.0/a24a5784eb5f9aa7f71578edd6bff3d6a40c650d/stickylistheaders-2.7.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wdullaer/materialdatetimepicker/2.0.0/dbae298be621ffd9feed8bec05ce4e4e6ee97109/materialdatetimepicker-2.0.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rengwuxian.materialedittext/library/2.1.4/a14709b74bc6982a5cfc3b193b6a30881b790169/library-2.1.4.aar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jorgecastilloprz/fabprogresscircle/1.01/d25e3d942394f32b4dd1a24610512ed8cd794d72/fabprogresscircle-1.01.aar" />
                             <option value="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/databinding/library/1.1/library-1.1.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/adapters/1.1/110c163a806a7317374e98d9a8ab460e91c0d3d3/adapters-1.1.aar" />
                             <option value="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/24.1.1/support-v4-24.1.1.aar" />
@@ -3219,63 +3238,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/ConfirmOrderActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/AboutActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SuggestActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/WebViewActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/RestaurantDetailActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/ScrollEvent.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopViewPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_recyclerview.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopListAdapter.java" />
-        <option value="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/BaseActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/provider/ImageBacks.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/comment_card.xml" />
-        <option value="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/AnimatorPath.java" />
-        <option value="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/PathPoint.java" />
-        <option value="$PROJECT_DIR$/grooo/build/intermediates/data-binding-layout-out/debug/layout/activity_order_detail.xml" />
-        <option value="$PROJECT_DIR$/grooo/build/retrolambda/debug/com/wenym/grooo/databinding/ActivityOrderDetailBinding.java" />
-        <option value="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/PathEvaluator.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_suggest.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
-        <option value="$USER_HOME$/Android/Sdk/platforms/android-24/android.jar!/android/util/Log.class" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Order.java" />
-        <option value="$PROJECT_DIR$/library/build.gradle" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_order_detail.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/values/attrs.xml" />
-        <option value="$PROJECT_DIR$/grooo/build.gradle" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/AppPreferences.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/GroooAppManager.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Basket.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopFragment.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/GroooLoginActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SplashActivity.java" />
         <option value="$PROJECT_DIR$/grooo/build/intermediates/data-binding-layout-out/debug/layout/fragment_profile.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java" />
         <option value="$PROJECT_DIR$/grooo/src/main/res/menu/menu_send_msg.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ProfileFragment.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java" />
         <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/CommentForm.java" />
-        <option value="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java" />
         <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_comment.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Order.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Shop.java" />
+        <option value="$PROJECT_DIR$/grooo/build.gradle" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_shoplist.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/menu/menu_edit.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile_edit.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/ProfileEditFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/ProfileEdit.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/viewmodel/BaseViewModel.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/viewmodel/ProfileViewModel.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/BaseViewModel.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ProfileFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_main2.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolAdapter.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_order_detail.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shopdetail.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/menu/menu_confirm_edit.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/ProfileFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_school.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/item_school.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SuggestActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/SuggestFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_suggest.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java" />
+        <option value="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/EditActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ProfileViewModel.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" />
+        <option value="$PROJECT_DIR$/grooo/src/main/res/layout/activity_edit.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="338" />
-    <option name="y" value="111" />
+    <option name="x" value="506" />
+    <option name="y" value="164" />
     <option name="width" value="1414" />
     <option name="height" value="910" />
   </component>
@@ -3289,10 +3308,16 @@
           <State>
             <id>Android</id>
           </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>AndroidUnknownAttribute</id>
+            <id>ConstantConditions</id>
           </State>
         </selected-state>
       </profile-state>
@@ -3323,25 +3348,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
+      <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane />
       </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
@@ -3400,29 +3428,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches">
-        <subPane />
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -3457,11 +3462,147 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="device.picker.selection" value="Nexus_5_API_23" />
-    <property name="DEBUGGABLE_DEVICE" value="meizu-m1_note-71MBBLM23WW2" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
     <property name="DEBUGGABLE_PROCESS" value="com.wenym.grooo" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ahbottomnavigation" />
@@ -3471,12 +3612,20 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.wenym.grooo.ui.profile" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wenym.grooo.ui.profile" />
       <recent name="com.wenym.grooo.ui.activities" />
       <recent name="com.runzii.lib.widgets" />
       <recent name="com.wenym.grooo.util.RxEvent" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grooo/src/main/res/menu" />
       <recent name="$PROJECT_DIR$/library/src/main" />
       <recent name="$PROJECT_DIR$/grooo/src/main/res/layout" />
       <recent name="$PROJECT_DIR$/grooo/src/main/res/values-v19" />
@@ -3855,35 +4004,42 @@
       <option name="project" value="LOCAL" />
       <updated>1471263431338</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="更改 - 增加了评论字数限制">
+      <created>1471601260271</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1471601260271</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="338" y="111" width="1414" height="910" extended-state="0" />
+    <frame x="506" y="164" width="1414" height="910" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35641316" sideWeight="0.5213549" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3552465" sideWeight="0.5213549" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47219068" sideWeight="0.52061856" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39570165" sideWeight="0.47938144" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22133939" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5714286" sideWeight="0.47938144" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29664722" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22123894" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.49410897" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32236096" sideWeight="0.49410897" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29008746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22740525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21566401" sideWeight="0.4969743" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287172" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="FIR.im" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916054" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39727584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36915296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3893,7 +4049,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282572" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21566401" sideWeight="0.4969743" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -3914,202 +4069,152 @@
     <MESSAGE value="开始制作用户信息界面" />
     <MESSAGE value="添加了很多图标资源" />
     <MESSAGE value="更改 - 精简了订单列表，使之更清爽" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改 - 精简了订单列表，使之更清爽" />
+    <MESSAGE value="更改 - 增加了评论字数限制" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改 - 增加了评论字数限制" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java</url>
-          <line>106</line>
+          <line>52</line>
           <properties />
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="21" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Remote">
-        <watch expression="recyclerView.getHeight()" language="JAVA" custom="" />
-        <watch expression="layout.findViewByPosition(position).getBottom()" language="JAVA" custom="" />
-        <watch expression="layout" language="JAVA" custom="" />
-        <watch expression="layoutManager" language="JAVA" custom="" />
-        <watch expression="layout.findViewByPosition(position).getBottom()" language="JAVA" custom="" />
-        <watch expression="layout.getItemCount()" language="JAVA" custom="" />
+        <watch expression="adapter.getCurr()" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-ldpi/grooo_spalash.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_action_done.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_content_create.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_content_create.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_content_create.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_content_create.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/colors.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.afollestad.material-dialogs/core/0.8.5.7/c79bdc90607b6539ba98dae9709f3f9a2d16d78e/core-0.8.5.7-sources.jar!/com/afollestad/materialdialogs/MaterialDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3576159">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.43713734">
+          <caret line="1869" column="6" selection-start-line="1869" selection-start-column="6" selection-end-line="1869" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_lock_outline_white_36dp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3785166">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_social_location_city.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_social_location_city.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_social_location_city.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_file_cloud_upload.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_file_cloud_upload.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/design/24.1.1/design-24.1.1-sources.jar!/android/support/design/widget/Snackbar.java">
+    <entry file="file://$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
-          <caret line="141" column="28" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+          <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.5201794">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/SplashActivity.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_profile.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7063197">
-          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.30071598">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33271375">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.30071598">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/databinding/library/1.1/library-1.1-sources.jar!/android/databinding/ObservableBoolean.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1885896">
-          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.11210762">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/Tools.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/GroooLoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19968304">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/Toasts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25673535">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/ecnomy/Basket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02852615">
-          <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.57399106">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/AppPreferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7717908">
-          <caret line="95" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17040358">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/GroooAppManager.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54199684">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/build/intermediates/data-binding-layout-out/debug/layout/fragment_profile.xml">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47162426">
-          <caret line="136" column="49" selection-start-line="136" selection-start-column="49" selection-end-line="136" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/CircleIndicator.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/BaseViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60956174">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/base/BaseFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035856575">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.76681614">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/attrs.xml">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09052631">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.81841433">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_bottom_navigation.xml">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_splash.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -4117,105 +4222,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_send_msg.xml">
+    <entry file="file://$PROJECT_DIR$/grooo/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18947369">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/SuggestFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17928287">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6966292">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/FoodOrderAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46613547">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/OrderListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3685259">
-          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.107569724">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3685259">
-          <caret line="211" column="31" selection-start-line="211" selection-start-column="31" selection-end-line="211" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/OrderDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5378486">
-          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35280898">
-          <caret line="229" column="33" selection-start-line="229" selection-start-column="33" selection-end-line="229" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ProfileFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39442232">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/AvatarImageBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="57" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2269#2270#0" expanded="false" />
-            <element signature="e#2301#2302#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.5381166">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -4224,76 +4234,217 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3494898">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.046272494">
+          <caret line="63" column="56" selection-start-line="48" selection-start-column="16" selection-end-line="63" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/GroooLoginActivity.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/0.6.1/3b3f5ef7d8aefd58ca5e9445b5b781a79b7d8e0/rxlifecycle-0.6.1-sources.jar!/com/trello/rxlifecycle/RxLifecycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16035634">
-          <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.33183858">
+          <caret line="99" column="46" selection-start-line="99" selection-start-column="46" selection-end-line="99" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle-components/0.6.1/942da067c1db16b4c997b3eaebf4cf6b62785127/rxlifecycle-components-0.6.1-sources.jar!/com/trello/rxlifecycle/components/support/RxAppCompatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.06010929">
-          <caret line="267" column="38" selection-start-line="267" selection-start-column="38" selection-end-line="267" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.3721973">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/CommentForm.java">
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-24/android.jar!/java/util/Collection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2806236">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.6820513">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2825112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/HttpResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/item_order_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2971698">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.509434">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/item_order_content.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41645244">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_shopdetail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84832907">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_order_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54755783">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_action_action_search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/menu/menu_confirm_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21479714">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/item_school.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/SchoolActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8548387">
+          <caret line="130" column="43" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/BottomNavPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0516129">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding>
+            <element signature="e#882#883#0" expanded="false" />
+            <element signature="e#928#929#0" expanded="false" />
+            <element signature="e#1335#1336#0" expanded="false" />
+            <element signature="e#1381#1382#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8148148">
+          <caret line="70" column="43" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MyFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5645161">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_aboutus.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_card.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_school.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5263157">
+          <caret line="23" column="53" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/runzii/lib/ui/base/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1625835">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/ea3b0a7ebed1a5c9c25c3da977bdb9bc6b6f0b62/rxjava-1.1.4-sources.jar!/rx/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33184856">
-          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.4.0/c6d702be0535ca925ef726b31a8b004882fe7eea/rxbinding-0.4.0-sources.jar!/com/jakewharton/rxbinding/widget/TextViewTextOnSubscribe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1625835">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.4.0/c6d702be0535ca925ef726b31a8b004882fe7eea/rxbinding-0.4.0-sources.jar!/com/jakewharton/rxbinding/widget/RxTextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41202673">
-          <caret line="106" column="42" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1696#1729#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8727274">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -4303,8 +4454,102 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18367347">
-          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+        <state vertical-scroll-proportion="-1.5789474">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/CommentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92903227">
+          <caret line="77" column="5" selection-start-line="66" selection-start-column="3" selection-end-line="77" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/RegisterFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68064517">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="176" column="46" selection-start-line="176" selection-start-column="46" selection-end-line="176" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225808">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3320158">
+          <caret line="137" column="41" selection-start-line="137" selection-start-column="41" selection-end-line="137" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/profile/ProfileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58064514">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ProfileViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0741935">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activities/EditActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/fragments/ShopMenuFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225808">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding>
+            <element signature="e#9538#9539#0" expanded="true" />
+            <element signature="e#9581#9582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/res/layout/activity_edit.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42687747">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
           <folding />
         </state>
       </provider>
