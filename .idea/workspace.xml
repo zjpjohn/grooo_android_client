@@ -84,57 +84,10 @@
     <bookmark url="file://$PROJECT_DIR$/grooo/src/main/res/layout/fragment_profile.xml" line="157" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694a6ee2-441c-429d-a06b-1a84b9ee17bd" name="Default" comment="新增 - 购物车按钮">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-hdpi/ic_close_white_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-mdpi/ic_close_white_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/ic_close_white_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxhdpi/ic_close_white_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-xxxhdpi/ic_close_white_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/HeaderListViewAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/MenuListViewAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/ClearEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/BackdropBottomSheetBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/ContentBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/MergedAppBarLayoutBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/ScrollingAppBarLayoutBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/animator/appbar_hide.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/animator/bottom_back_collapse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/animator/bottom_back_expand.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/drawable-xhdpi/toolbar_background_shadow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/bottom_sheet_shop.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Basket.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/ConfirmOrderActivity.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/PayListAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/PayListAdapter.java" />
+    <list default="true" id="694a6ee2-441c-429d-a06b-1a84b9ee17bd" name="Default" comment="完成了下单功能，完成了谷歌地图一样的下单界面">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/grooo.iml" afterPath="$PROJECT_DIR$/grooo/grooo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Address.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Address.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Food.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Food.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Order.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/app/Order.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/OrderForm.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/OrderForm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/BaseViewModel.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/BaseViewModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ShopViewModel.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ShopViewModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/EditActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/EditActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/MainActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/OrderDetailActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/activity/OrderDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopListAdapter.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/adapters/ShopListAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopActivity.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopMenuFragment.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopMenuFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/DataBindingNamespace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/FoodEvent.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/util/RxEvent/FoodEvent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/FabBottomSheetBehavior.java" afterPath="$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/widgets/behavior/FabBottomSheetBehavior.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_confirm_order.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_confirm_order.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shop.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/activity_shop.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_food_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/layout/item_shop_paylist.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/layout/item_shop_paylist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/attrs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/grooo/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/behavior/BottomSheetAnchorBehavior.java" afterPath="$PROJECT_DIR$/library/src/main/java/com/runzii/lib/widgets/behavior/BottomSheetAnchorBehavior.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/library/src/main/res/values/attrs.xml" />
     </list>
     <ignored path="Grooo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -309,7 +262,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="79" column="59" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
               <folding />
             </state>
@@ -319,8 +272,8 @@
       <file leaf-file-name="ShopViewModel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ShopViewModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5180723">
-              <caret line="163" column="79" selection-start-line="163" selection-start-column="79" selection-end-line="163" selection-end-column="79" />
+            <state vertical-scroll-proportion="0.6626506">
+              <caret line="123" column="33" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -363,22 +316,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="e#1270#1271#0" expanded="false" />
-                <element signature="e#1297#1298#0" expanded="false" />
-                <element signature="e#1352#1353#0" expanded="false" />
-                <element signature="e#1379#1380#0" expanded="false" />
-                <element signature="e#1534#1535#0" expanded="false" />
-                <element signature="e#1562#1563#0" expanded="false" />
-                <element signature="e#6332#6333#0" expanded="false" />
-                <element signature="e#6365#6366#0" expanded="false" />
-                <element signature="e#6588#6589#0" expanded="false" />
-                <element signature="e#6643#6644#0" expanded="false" />
-                <element signature="e#6694#6695#0" expanded="false" />
-                <element signature="e#6742#6743#0" expanded="false" />
-                <element signature="e#6818#6819#0" expanded="false" />
-                <element signature="e#6878#6879#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -3461,10 +3399,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="30" />
-    <option name="width" value="1368" />
-    <option name="height" value="739" />
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -3516,22 +3453,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3539,12 +3466,36 @@
       <pane id="Scratches">
         <subPane />
       </pane>
-      <pane id="AndroidView">
+      <pane id="PackagesPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo_android_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3606,36 +3557,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
+      <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grooo_android_client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grooo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -4083,11 +4020,17 @@
       <option name="project" value="LOCAL" />
       <updated>1472292894345</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="完成了下单功能，完成了谷歌地图一样的下单界面">
+      <created>1473621031366</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1473621031366</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
+    <frame x="0" y="30" width="1366" height="738" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -4096,7 +4039,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40581542" sideWeight="0.52915454" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5296108" sideWeight="0.4708455" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52881354" sideWeight="0.4708455" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22123894" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32656515" sideWeight="0.49410897" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32236096" sideWeight="0.49410897" order="11" side_tool="false" content_ui="tabs" />
@@ -4104,7 +4047,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25151515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287172" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -4149,7 +4092,8 @@
     <MESSAGE value="新增 - 商品列表界面增加底部列表&#10;修改 - 修复几处可能导致内存泄漏的代码" />
     <MESSAGE value="新增 - 属性动画" />
     <MESSAGE value="新增 - 购物车按钮" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增 - 购物车按钮" />
+    <MESSAGE value="完成了下单功能，完成了谷歌地图一样的下单界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了下单功能，完成了谷歌地图一样的下单界面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -4243,7 +4187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7409201">
           <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4251,7 +4194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.043583535">
           <caret line="136" column="39" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4282,7 +4224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33171913">
           <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4311,9 +4252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16960353">
           <caret line="34" column="41" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4342,11 +4280,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5265958">
           <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4418#4419#0" expanded="false" />
-            <element signature="e#4479#4480#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4354,7 +4287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9069149">
           <caret line="107" column="5" selection-start-line="98" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4399,7 +4331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6835105">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4407,7 +4338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31382978">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4415,7 +4345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42819148">
           <caret line="201" column="20" selection-start-line="201" selection-start-column="20" selection-end-line="201" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4453,10 +4382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7606383">
           <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding>
-            <element signature="e#1064#1065#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4510,49 +4435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5046729">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#159#160#0" expanded="false" />
-            <element signature="e#198#199#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#1270#1271#0" expanded="false" />
-            <element signature="e#1297#1298#0" expanded="false" />
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1379#1380#0" expanded="false" />
-            <element signature="e#1534#1535#0" expanded="false" />
-            <element signature="e#1562#1563#0" expanded="false" />
-            <element signature="e#6332#6333#0" expanded="false" />
-            <element signature="e#6365#6366#0" expanded="false" />
-            <element signature="e#6588#6589#0" expanded="false" />
-            <element signature="e#6643#6644#0" expanded="false" />
-            <element signature="e#6694#6695#0" expanded="false" />
-            <element signature="e#6742#6743#0" expanded="false" />
-            <element signature="e#6818#6819#0" expanded="false" />
-            <element signature="e#6878#6879#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="67" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/HttpResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4560,7 +4442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33174226">
           <caret line="306" column="40" selection-start-line="306" selection-start-column="40" selection-end-line="306" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4568,7 +4449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1983471">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4576,7 +4456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1983471">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4584,11 +4463,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.95454544">
           <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6385542">
+          <caret line="277" column="27" selection-start-line="277" selection-start-column="27" selection-end-line="277" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ShopViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6626506">
+          <caret line="123" column="33" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
           <folding>
-            <element signature="e#4136#4137#0" expanded="true" />
-            <element signature="e#4157#4158#0" expanded="true" />
-            <element signature="e#4283#4284#0" expanded="true" />
-            <element signature="e#4309#4310#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -4601,6 +4491,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/http/HttpResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/GroooService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -4609,21 +4507,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/http/NetworkWrapper.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/ui/shop/ShopActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6385542">
-          <caret line="277" column="27" selection-start-line="277" selection-start-column="27" selection-end-line="277" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grooo/src/main/java/com/wenym/grooo/model/viewmodel/ShopViewModel.java">
+    <entry file="file://$PROJECT_DIR$/grooo/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5180723">
-          <caret line="163" column="79" selection-start-line="163" selection-start-column="79" selection-end-line="163" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="67" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
